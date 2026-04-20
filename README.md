@@ -51,6 +51,16 @@ This project focuses on analyzing retail sales data to uncover trends, patterns,
 
 ---
 
+## 📊  Results
+
+- Successfully analyzed historical sales trends  
+- Built a forecasting model for future predictions  
+- Improved understanding of seasonal behavior  
+- Generated actionable insights for business planning  
+
+---
+
+
 ## 💡 Business Impact
 - Supports inventory and demand planning  
 - Helps identify high-performing regions and product categories  
